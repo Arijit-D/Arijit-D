@@ -6,8 +6,5 @@
 
 - 📫 How to reach me **Arijitdhar401@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YNn1Whd7BpMXRusWOu7GQWyRu9A3zd0R/view?usp=sharing](https://drive.google.com/file/d/1YNn1Whd7BpMXRusWOu7GQWyRu9A3zd0R/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YNn1Whd7BpMXRusWOu7GQWyRu9A3zd0R/view?usp=sharing]
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
