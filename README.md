@@ -1,52 +1,15 @@
-<style>
-.flex-container {
-  display: flex;
-  background-color: DodgerBlue;
-}
-
-.flex-container > div {
-  background-color: #f1f1f1;
-  margin: 10px;
-  padding: 20px;
-  font-size: 30px;
-}
-</style>
-    
-      <div align="center">
-        <img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif"/>
-      </div>
-      
+     
 <h1 align="center">Hi 👋, I'm Arijit Dhar</h1>
 <h3 align="center">A passionate Java Backend developer</h3>
 
-
- 
-
 # 🚀 About me: 
- <div >
-       <div class="flex-container">
 🌍 I'm based in Cooch Behar, West Bengal                                                           
                                                           
 🌱 I’m currently learning Java,Spring Boot,JDBC
 
-💬 Ask me about Java
+💬 Ask me about Java,Javascript
 
-📫 How to reach me Arijitdhar401@gmail.com
-
-📄 Know about my experiences RESUME
-  </div>
-      
-  <div >
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-      </div>
-  </div> 
-      
-</div>
-
-        
-
-
+- 📫 How to reach me Arijitdhar401@gmail.com
 
 - 👨‍💻 All of my projects are available at [https://arijit-d.github.io/](https://arijit-d.github.io/)
 
