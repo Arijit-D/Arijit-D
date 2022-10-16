@@ -1,4 +1,6 @@
-
+<div align="center">
+        <img src="https://rishavanand.github.io/static/images/greetings.gif"/>
+      </div>
 <div align="center">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" width="40%"/>
       </div>
