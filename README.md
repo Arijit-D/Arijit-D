@@ -1,5 +1,5 @@
 
-![](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif)<br/>     
+![align="center"](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif)<br/>     
 
 
 <h1 align="center">Hi 👋, I'm Arijit Dhar</h1>
