@@ -1,6 +1,6 @@
-<div align="center" width="100%">
+
 ![](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif)<br/>     
-</div>
+
 
 <h1 align="center">Hi 👋, I'm Arijit Dhar</h1>
 <h3 align="center">A passionate Java Backend developer</h3>
