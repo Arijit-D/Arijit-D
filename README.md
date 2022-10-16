@@ -7,9 +7,9 @@
 
 #About me
 
-👨‍💻 All of my projects are available at Portfolio 😊
+🌍 I'm based in Cooch Behar, West Bengal
 
-🌱 I’m currently learning Java
+🌱 I’m currently learning Java,Spring Boot,JDBC
 
 💬 Ask me about Java
 
