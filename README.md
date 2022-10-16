@@ -1,6 +1,6 @@
 
 <div align="center">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU"/>
+        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
       </div>
 <h1 align="center">Hi 👋, I'm Arijit Dhar</h1>
 <h3 align="center">A passionate Java Backend developer</h3>
@@ -40,4 +40,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Arijit-D&icon=0&color=0)](https://visitcount.itsvg.in)
- ![Snake animation](https://github.com/Arijit-D/Arijit-D/blob/output/github-contribution-grid-snake.svg)
+
