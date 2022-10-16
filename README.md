@@ -1,5 +1,5 @@
 
-  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif)<br/>     
+  ![](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif)<br/>     
 
 
 <h1 align="center">Hi 👋, I'm Arijit Dhar</h1>
@@ -13,7 +13,7 @@
 
 💬 Ask me about Java,Javascript
 
-- 📫 How to reach me Arijitdhar401@gmail.com   &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;        ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsbsKkIxKt550siBkk_cFzMQCZvCO5aff1DDlCokQ22B1r3bd2blNsCkYLRz9qUTcgG5M&usqp=CAU)<br/>  
+- 📫 How to reach me Arijitdhar401@gmail.com   
 
 - 👨‍💻 All of my projects are available at [https://arijit-d.github.io/](https://arijit-d.github.io/)
 
