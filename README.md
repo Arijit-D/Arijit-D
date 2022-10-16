@@ -1,15 +1,16 @@
 <div align="center">
         <img src="https://rishavanand.github.io/static/images/greetings.gif"/>
       </div>
-
+#
 <h1 align="center">Hi 👋, I'm Arijit Dhar</h1>
 <h3 align="center">A passionate Java Backend developer</h3>
 
 # 🚀 About me: 
-<div align="right">
+            <div align="right">
+            🌍 I'm based in Cooch Behar, West Bengal
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" width="40%"/>
       </div>
-🌍 I'm based in Cooch Behar, West Bengal
+
 
 🌱 I’m currently learning Java,Spring Boot,JDBC
 
