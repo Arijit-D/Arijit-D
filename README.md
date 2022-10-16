@@ -5,6 +5,22 @@
 <h1 align="center">Hi 👋, I'm Arijit Dhar</h1>
 <h3 align="center">A passionate Java Backend developer</h3>
 
+👨‍💻 All of my projects are available at Portfolio 😊
+
+🌱 I’m currently learning React Advanced
+
+🔭 Individual Project Myntra-Clone
+
+👯 Group Project 1 Sephora-Clone
+
+💬 Ask me about Fronted
+
+📫 How to reach me usmani.faizan98@gmail.com
+
+📄 Know about my experiences RESUME
+
+⚡ Fun fact Food and Music🎵 are the reasons to live😊
+
 - 👨‍💻 All of my projects are available at [https://arijit-d.github.io/](https://arijit-d.github.io/)
 
 - 📫 How to reach me **Arijitdhar401@gmail.com**
