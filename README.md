@@ -7,7 +7,10 @@
 
 # 🚀 About me: 
 
-<div align="left">   
+
+         <div display="flex>   
+       
+       <div align="left">   
         🌍 I'm based in Cooch Behar, West Bengal
 
 🌱 I’m currently learning Java,Spring Boot,JDBC
@@ -25,10 +28,14 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YNn1Whd7BpMXRusWOu7GQWyRu9A3zd0R/view?usp=sharing]
 
-      </div>
+  </div>
+       
+       
          <div align="right">   
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" width="40%"/>
       </div>
+        </div>
+     
 
 
 
