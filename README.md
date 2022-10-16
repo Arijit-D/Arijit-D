@@ -6,13 +6,14 @@
 <h3 align="center">A passionate Java Backend developer</h3>
 
 # 🚀 About me: 
-🌍 I'm based in Cooch Behar, West Bengal                ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsbsKkIxKt550siBkk_cFzMQCZvCO5aff1DDlCokQ22B1r3bd2blNsCkYLRz9qUTcgG5M&usqp=CAU)<br/>                                                
+
+🌍 I'm based in Cooch Behar, West Bengal                                                             
                                                           
 🌱 I’m currently learning Java,Spring Boot,JDBC  
 
 💬 Ask me about Java,Javascript
 
-- 📫 How to reach me Arijitdhar401@gmail.com
+- 📫 How to reach me Arijitdhar401@gmail.com   &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;        ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsbsKkIxKt550siBkk_cFzMQCZvCO5aff1DDlCokQ22B1r3bd2blNsCkYLRz9qUTcgG5M&usqp=CAU)<br/>  
 
 - 👨‍💻 All of my projects are available at [https://arijit-d.github.io/](https://arijit-d.github.io/)
 
