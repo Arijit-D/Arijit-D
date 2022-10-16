@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Arijit Dhar</h1>
 <h3 align="center">A passionate Java Backend developer</h3>
 
-🚀 About me
+# 🚀 About me: 
 
 🌍 I'm based in Cooch Behar, West Bengal
 
