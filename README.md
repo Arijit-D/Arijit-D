@@ -1,4 +1,4 @@
-     
+![](https://github-readme-stats.vercel.app/api?username=Arijit-D&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>     
 <h1 align="center">Hi 👋, I'm Arijit Dhar</h1>
 <h3 align="center">A passionate Java Backend developer</h3>
 
