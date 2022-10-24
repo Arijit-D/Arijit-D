@@ -30,7 +30,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Arijit-D&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arijit-D&theme=tokyonight)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
