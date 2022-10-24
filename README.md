@@ -26,11 +26,11 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Arijit-D&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Arijit-D&theme=dark&hide_border=false)<br/>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arijit-D&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Arijit-D&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arijit-D&theme=tokyonight)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
