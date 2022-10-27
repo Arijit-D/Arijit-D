@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YNn1Whd7BpMXRusWOu7GQWyRu9A3zd0R/view?usp=sharing]
 
-- My linkedln id- https://www.linkedin.com/in/arijit-dhar-992821185/
+- 📱 My linkedln id- https://www.linkedin.com/in/arijit-dhar-992821185/
 
 
 # 💻 Tech Stack:
