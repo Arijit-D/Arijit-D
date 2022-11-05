@@ -18,6 +18,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YNn1Whd7BpMXRusWOu7GQWyRu9A3zd0R/view?usp=sharing]
 
+-  📄 Know about my experiences  <a href="https://drive.google.com/file/d/1YNn1Whd7BpMXRusWOu7GQWyRu9A3zd0R/view?usp=sharing">Resume</a>
+
 - 📱 My linkedln id- https://www.linkedin.com/in/arijit-dhar-992821185/
 
 
