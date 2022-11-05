@@ -16,11 +16,10 @@
 
 - 👨‍💻 All of my projects are available at [https://arijit-d.github.io/](https://arijit-d.github.io/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YNn1Whd7BpMXRusWOu7GQWyRu9A3zd0R/view?usp=sharing]
-
 -  📄 Know about my experiences  <a href="https://drive.google.com/file/d/1YNn1Whd7BpMXRusWOu7GQWyRu9A3zd0R/view?usp=sharing">Resume</a>
 
-- 📱 My linkedln id- https://www.linkedin.com/in/arijit-dhar-992821185/
+- 📱 My linkedln id- <a href="https://www.linkedin.com/in/arijit-dhar-992821185/">Resume</a>
+
 
 
 # 💻 Tech Stack:
