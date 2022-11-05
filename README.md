@@ -18,7 +18,7 @@
 
 -  📄 Know about my experiences  <a href="https://drive.google.com/file/d/1YNn1Whd7BpMXRusWOu7GQWyRu9A3zd0R/view?usp=sharing">Resume</a>
 
-- 📱 My linkedln id- <a href="https://www.linkedin.com/in/arijit-dhar-992821185/">Resume</a>
+- 📱 My linkedln id- <a href="https://www.linkedin.com/in/arijit-dhar-992821185/">linkedin</a>
 
 
 
